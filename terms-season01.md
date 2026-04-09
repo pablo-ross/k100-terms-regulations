@@ -236,7 +236,7 @@
    2. Reklamacja powinna zawierać dane Uczestnika lub osoby, która starała się zostać Uczestnikiem oraz opisanie przyczyny reklamacji.
    3. Organizator rozpatrzy reklamację niezwłocznie po jej otrzymaniu, jednakże nie później niż w terminie 30 dni od dnia jej otrzymania.
    4. Organizator udzieli odpowiedzi na reklamację w postaci wiadomości e-mail na adres poczty elektronicznej, z której została przesłana reklamacja.
-   5. Reklamacje dotyczące klasyfikacji końcowych, w tym kwestionujące niezaliczenie przejazdu z powodu przekroczenia terminów określonych w §&nbsp;10 ust. 3 Regulaminu, powinny zostać zgłoszone najpóźniej do godz. 12:00 w niedzielę 31 maja 2026 r., aby mogły zostać rozpatrzone przed ceremonią wręczenia medali. Reklamacje zgłoszone po tym terminie będą rozpatrywane na zasadach ogólnych, jednak ich uwzględnienie nie wpłynie na przebieg ceremonii ani na listę Uczestników, którzy otrzymali medale w jej trakcie.
+   5. Reklamacje dotyczące klasyfikacji końcowych, w tym kwestionujące niezaliczenie przejazdu z powodu przekroczenia terminów określonych w §&nbsp;10 ust. 3 Regulaminu, powinny zostać zgłoszone najpóźniej do godz. 10:00 w niedzielę 31 maja 2026 r., aby mogły zostać rozpatrzone przed ceremonią wręczenia medali. Reklamacje zgłoszone po tym terminie będą rozpatrywane na zasadach ogólnych, jednak ich uwzględnienie nie wpłynie na przebieg ceremonii ani na listę Uczestników, którzy otrzymali medale w jej trakcie.
 
 ### §&nbsp;14 ZMIANA REGULAMINU
 
@@ -246,6 +246,7 @@
       3. Korekta oczywistych błędów redakcyjnych lub pisarskich.
       4. Doprecyzowanie lub uzupełnienie zasad w celu usunięcia wątpliwości interpretacyjnych.
       5. Zmiana danych Organizatora lub partnerów wydarzenia.
+      6. Zmiana terminów, tras, nagród lub innych warunków organizacyjnych wydarzenia podyktowana względami logistycznymi, organizacyjnymi lub niezależnymi od Organizatora.
    2. O każdej zmianie Regulaminu Organizator poinformuje Uczestników z co najmniej 7-dniowym wyprzedzeniem, drogą e-mailową oraz poprzez ogłoszenie na stronie [komornicka100.pl](https://komornicka100.pl).
    3. Uczestnik, który nie akceptuje zmian Regulaminu, może wyrejestrować się z wydarzenia przed wejściem zmian w życie, korzystając z formularza na stronie [komornicka100.pl/unregister](https://komornicka100.pl/unregister), bez żadnych konsekwencji.
    4. Zmiany Regulaminu nie naruszają praw nabytych przez Uczestników przed dniem wejścia zmian w życie, w szczególności nie unieważniają zaliczonych przejazdów ani zdobytych uprawnień do nagród.
