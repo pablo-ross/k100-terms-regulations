@@ -155,7 +155,7 @@
    3. Nagrody za okres zimowy można odbierać nie wcześniej niż 10 marca 2026 r., po wcześniejszym podaniu rozmiaru koszulki. O dokładnym terminie odbioru Uczestnicy zostaną poinformowani indywidualnie.
    4. Nagrody za okres wiosenny można odbierać w dniach 2-16 czerwca 2026 r.
    5. Wszystkie nagrody sezonowe i miesięczne wydawane są w biurze GOSiR (ul. Polna 37, Komorniki) w dni robocze w godzinach 7:00-15:00.
-   6. Medale i nagrody roczne zostaną wręczone w niedzielę 31 maja 2026 r. podczas Dni Komornik 2026.
+   6. Medale, o których mowa w §&nbsp;9 ust. 3, zostaną wręczone w niedzielę 31 maja 2026 r. podczas Dni Komornik 2026.
 
 7. Wybór nagrody:
    1. O rodzaju nagrody decyduje Uczestnik podczas osobistego odbioru, w ramach dostępnej puli nagród.
