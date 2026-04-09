@@ -136,14 +136,14 @@
    1. Uczestnik, który zarejestruje największą liczbę przejazdów w okresie trwania wydarzenia (1 czerwca 2025 - 30 maja 2026 godz. 21:59) otrzyma voucher o wartości 300 zł brutto do wykorzystania w sklepie Bike Poznań (fundator: Wójt Gminy Komorniki).
    2. Uczestnik z drugą największą liczbą przejazdów otrzyma voucher o wartości 200 zł brutto do wykorzystania w sklepie Bike Poznań (fundator: Wójt Gminy Komorniki).
    3. Uczestnik z trzecią największą liczbą przejazdów otrzyma voucher o wartości 100 zł brutto do wykorzystania w sklepie Bike Poznań (fundator: Wójt Gminy Komorniki).
-   4. W przypadku takiej samej liczby przejazdów, nagroda przypadnie Uczestnikowi, który rozpoczął przejazd jako pierwszy.
+   4. W przypadku takiej samej liczby przejazdów, nagroda przypadnie Uczestnikowi, który jako pierwszy rozpoczął swój ostatni przejazd w analizowanym okresie.
 
 5. Nagrody za największą liczbę przejazdów w danym miesiącu:
    1. Informacja o tym, czy w danym miesiącu będzie przyznawana nagroda za największą liczbę przejazdów, zostanie ogłoszona na stronie [komornicka100.pl](https://komornicka100.pl) oraz w mediach społecznościowych przynajmniej 7 dni przed rozpoczęciem miesiąca.
    2. Ilość nagród, rodzaj nagrody oraz jej fundator zostaną ogłoszone w sposób określony w pkt&nbsp;1 powyżej.
    3. Ogłoszenie wyników po zakończeniu danego miesiąca nastąpi nie wcześniej niż 3 dni i nie później niż 10 dni od zakończenia miesiąca, w sposób określony w pkt&nbsp;1 powyżej.
    4. Każdy nagrodzony Uczestnik otrzyma powiadomienie poprzez e-mail.
-   5. W przypadku takiej samej liczby przejazdów, nagroda przypadnie Uczestnikowi, który rozpoczął przejazd jako pierwszy w danym miesiącu.
+   5. W przypadku takiej samej liczby przejazdów, nagroda przypadnie Uczestnikowi, który jako pierwszy rozpoczął swój ostatni przejazd w danym miesiącu.
    6. Nagrody można odbierać przez okres nie dłuższy niż 15 dni licząc od dnia od ogłoszenia wyników.
    7. Niewykorzystane nagrody miesięczne przepadają po upływie 15-dniowego terminu odbioru.
 
