@@ -23,9 +23,10 @@
 
 ### §&nbsp;3 TERMIN I MIEJSCE
 
-   1. Wydarzenie rozpoczyna się 1 czerwca 2025 r. i trwa do 31 maja 2026 r.
-   2. Rywalizacja o medal okolicznościowy, o którym mowa w §&nbsp;9 ust. 3, kończy się wcześniej, tj. w sobotę 30 maja 2026 r. o godz. 21:59. Szczegółowe zasady tej rywalizacji określa §&nbsp;9 ust. 3 oraz §&nbsp;10 ust. 3 Regulaminu.
-   3. Miejsce startu i mety jest określone odrębnie dla każdej z tras, jednak uczestnicy mogą rozpocząć i zakończyć jazdę w dowolnym miejscu na trasie pod warunkiem przejechania pełnej trasy.
+   1. Wszystkie godziny podane w niniejszym Regulaminie odnoszą się do czasu lokalnego strefy Europe/Warsaw (CEST w okresie letnim, CET w okresie zimowym), chyba że wyraźnie zaznaczono inaczej.
+   2. Wydarzenie rozpoczyna się 1 czerwca 2025 r. i trwa do 31 maja 2026 r.
+   3. Rywalizacja o medal okolicznościowy, o którym mowa w §&nbsp;9 ust. 3, kończy się wcześniej, tj. w sobotę 30 maja 2026 r. o godz. 21:59. Szczegółowe zasady tej rywalizacji określa §&nbsp;9 ust. 3 oraz §&nbsp;10 ust. 3 Regulaminu.
+   4. Miejsce startu i mety jest określone odrębnie dla każdej z tras, jednak uczestnicy mogą rozpocząć i zakończyć jazdę w dowolnym miejscu na trasie pod warunkiem przejechania pełnej trasy.
 
 ### §&nbsp;4 TRASY
 
@@ -125,7 +126,7 @@
 3. Nagroda roczna - medal okolicznościowy:
    1. Każdy Uczestnik, który ukończy i zarejestruje trasę co najmniej 12 razy w okresie rywalizacji medalowej, przynajmniej raz w każdym miesiącu, otrzyma medal okolicznościowy.
    2. Okres rywalizacji medalowej rozpoczyna się 1 czerwca 2025 r. o godz. 00:00 i kończy się 30 maja 2026 r. o godz. 21:59. Szczegółowe zasady zaliczania przejazdów do rywalizacji medalowej, w tym twarde terminy zakończenia jazdy oraz przesłania aktywności do Stravy, określa §&nbsp;10 ust. 3 Regulaminu.
-   3. Wymóg ukończenia przejazdu „przynajmniej raz w każdym miesiącu" oznacza zaliczenie co najmniej jednego przejazdu w każdym z 12 pełnych miesięcy kalendarzowych: czerwiec 2025, lipiec 2025, sierpień 2025, wrzesień 2025, październik 2025, listopad 2025, grudzień 2025, styczeń 2026, luty 2026, marzec 2026, kwiecień 2026 oraz w okresie od 1 do 30 maja 2026 r. godz. 21:59 czasu lokalnego (Europe/Warsaw).
+   3. Wymóg ukończenia przejazdu „przynajmniej raz w każdym miesiącu" oznacza zaliczenie co najmniej jednego przejazdu w każdym z 12 pełnych miesięcy kalendarzowych: czerwiec 2025, lipiec 2025, sierpień 2025, wrzesień 2025, październik 2025, listopad 2025, grudzień 2025, styczeń 2026, luty 2026, marzec 2026, kwiecień 2026 oraz w okresie od 1 do 30 maja 2026 r. godz. 21:59.
    4. Medale zostaną wręczone w niedzielę 31 maja 2026 r. podczas Dni Komornik 2026 (fundator: Gminny Ośrodek Sportu i Rekreacji w Komornikach).
    5. Wśród Uczestników obecnych podczas ceremonii wręczenia medali zostanie rozlosowanych 5 pakietów na serwis roweru o wartości 190 zł brutto każdy (fundator: sklep Bike Poznań).
 
@@ -170,8 +171,8 @@
    3. Szczególne zasady rywalizacji o medal okolicznościowy:
       1. W celu zapewnienia, że ceremonia wręczenia medali w dniu 31 maja 2026 r. odbędzie się w oparciu o ostateczne i kompletne wyniki, dla rywalizacji o medal okolicznościowy obowiązują twarde, nieprzekraczalne terminy określone poniżej.
       2. Do rywalizacji o medal zaliczane są wyłącznie przejazdy, które łącznie spełniają następujące warunki:
-         1. Sama jazda (aktywność rowerowa) zakończyła się najpóźniej w sobotę 30 maja 2026 r. o godz. 21:59 czasu lokalnego (Europe/Warsaw).
-         2. Aktywność została przesłana do serwisu Strava i jest widoczna dla systemu Komornicka 100 najpóźniej w sobotę 30 maja 2026 r. o godz. 21:59 czasu lokalnego (Europe/Warsaw).
+         1. Sama jazda (aktywność rowerowa) zakończyła się najpóźniej w sobotę 30 maja 2026 r. o godz. 21:59.
+         2. Aktywność została przesłana do serwisu Strava i jest widoczna dla systemu Komornicka 100 najpóźniej w sobotę 30 maja 2026 r. o godz. 21:59.
          3. Aktywność spełnia wszystkie pozostałe kryteria techniczne weryfikacji określone w §&nbsp;7 ust. 2 Regulaminu (m.in. typ "Ride", status publiczny, zgodność z trasą, dystans co najmniej 98 km, czas trwania nie dłuższy niż 24 godziny).
       3. W odniesieniu do rywalizacji o medal nie stosuje się 72-godzinnego okna na przesłanie aktywności do Stravy, o którym mowa w §&nbsp;7 ust. 2 pkt 7. Aktywności przesłane do Stravy po godz. 21:59 dnia 30 maja 2026 r. nie będą zaliczane do rywalizacji o medal, nawet jeśli sama jazda zakończyła się przed tym terminem.
       4. Aktywności, które nie zostały zaliczone do rywalizacji o medal wyłącznie z powodu przekroczenia terminu określonego w pkt 2 ppkt 2 powyżej, ale spełniają pozostałe warunki regulaminowe (w tym standardowe 72-godzinne okno z §&nbsp;7 ust. 2 pkt 7), są normalnie zaliczane do pozostałych klasyfikacji wydarzenia, w szczególności do rocznej klasyfikacji za największą liczbę przejazdów (§&nbsp;9 ust. 4) oraz do klasyfikacji miesięcznej za maj 2026 r. (§&nbsp;9 ust. 5), jeżeli taka klasyfikacja zostanie ogłoszona.
