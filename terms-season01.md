@@ -15,6 +15,9 @@
 
    **Klub sportowy "Komorniki MTB Team"**  
    ul. Jeziorna 3, 62-052 Komorniki  
+   NIP: 7773352928  
+   REGON: 384164675  
+   E-mail: wyzwanie@komornicka100.pl  
    Strona internetowa: [komornikimtb.pl](https://komornikimtb.pl)
 
 2. Partnerzy wydarzenia:
@@ -40,7 +43,7 @@
 ### §&nbsp;5 UCZESTNICTWO
 
    1. Wydarzenie ma charakter otwarty.
-   2. Uczestnikami wydarzenia mogą być wyłącznie osoby pełnoletnie, które dokonają rejestracji zgodnie z  §&nbsp;6 niniejszego Regulaminu.
+   2. Uczestnikami wydarzenia mogą być wyłącznie osoby pełnoletnie (które ukończyły 18 lat), które dokonają rejestracji zgodnie z §&nbsp;6 niniejszego Regulaminu. Osoby niepełnoletnie nie mogą brać udziału w wydarzeniu.
    3. Każdy Uczestnik bierze udział w wydarzeniu na własną odpowiedzialność i ryzyko.
    4. Uczestnicy są zobowiązani do:
       1. Przestrzegania przepisów ruchu drogowego i zasad bezpieczeństwa podczas jazdy.
@@ -55,12 +58,13 @@
    1. Rejestracja Uczestników odbywa się poprzez wypełnienie formularza elektronicznego dostępnego na stronie [komornicka100.pl](https://komornicka100.pl).
    2. Rejestracja jest możliwa przez cały czas trwania wydarzenia.
    3. Rejestracja ma charakter jednorazowy. Uczestnik, który dokonał rejestracji w sezonie 2025/2026 (lub we wcześniejszej edycji wydarzenia, o ile jego konto pozostaje aktywne w systemie), nie musi rejestrować się ponownie w kolejnych sezonach. Konto Uczestnika pozostaje aktywne i uprawnia do udziału w kolejnych edycjach wydarzenia, chyba że Uczestnik samodzielnie zażąda jego usunięcia lub zostanie ono usunięte z przyczyn opisanych w §&nbsp;7 ust. 5 Regulaminu.
-   4. W celu rejestracji Uczestnik zobowiązany jest do:
+   4. Uczestnik może w każdym momencie wyrejestrować się z wydarzenia, korzystając z formularza dostępnego na stronie [komornicka100.pl/unregister](https://komornicka100.pl/unregister). Wyrejestrowanie skutkuje usunięciem konta Uczestnika z systemu wydarzenia.
+   5. W celu rejestracji Uczestnik zobowiązany jest do:
       1. Podania danych osobowych (imię, nazwisko, adres e-mail).
       2. Podania nazwy użytkownika w serwisie Strava oraz połączenia konta Strava z systemem wydarzenia.
       3. Uczestnik wypełniając formularz rejestracyjny oświadcza, że zapoznał się z Regulaminem wydarzenia i akceptuje jego postanowienia oraz wyraża zgodę na przetwarzanie danych osobowych dla celów realizacji wydarzenia.
-   5. Organizator wyśle na wskazany przez Uczestnika adres e-mail potwierdzenie prawidłowo dokonanej rejestracji.
-   6. Uczestnicy, którzy posiadają aktywne konto z poprzednich edycji wydarzenia, są związani postanowieniami niniejszego Regulaminu z chwilą jego wejścia w życie. W przypadku istotnych zmian Regulaminu pomiędzy sezonami Organizator poinformuje Uczestników o tych zmianach drogą e-mailową oraz na stronie [komornicka100.pl](https://komornicka100.pl).
+   6. Organizator wyśle na wskazany przez Uczestnika adres e-mail potwierdzenie prawidłowo dokonanej rejestracji.
+   7. Uczestnicy, którzy posiadają aktywne konto z poprzednich edycji wydarzenia, są związani postanowieniami niniejszego Regulaminu z chwilą jego wejścia w życie. W przypadku istotnych zmian Regulaminu pomiędzy sezonami Organizator poinformuje Uczestników o tych zmianach drogą e-mailową oraz na stronie [komornicka100.pl](https://komornicka100.pl).
 
 ### §&nbsp;7 WERYFIKACJA PRZEJECHANYCH TRAS
 
@@ -182,7 +186,14 @@
    5. Warunkiem otrzymania nagród sezonowych, o których szczegółowa mowa w §&nbsp;9 ust. 2 Regulaminu, jest przejechanie trasy minimum raz w danym okresie sezonowym.
    6. Organizator zastrzega sobie prawo do wprowadzenia dodatkowych klasyfikacji.
 
-### §&nbsp;11 KLAUZULA INFORMACYJNA
+### §&nbsp;11 WIZERUNEK UCZESTNIKA
+
+   1. Ceremonia wręczenia medali, o której mowa w §&nbsp;9 ust. 3 pkt 4, odbywa się podczas Dni Komornik 2026, będących imprezą masową organizowaną przez Gminę Komorniki.
+   2. Podczas Dni Komornik Gmina Komorniki lub podmioty przez nią upoważnione mogą utrwalać przebieg imprezy (zdjęcia, filmy) i rozpowszechniać utrwalony materiał w prasie, mediach społecznościowych i materiałach promocyjnych Gminy Komorniki.
+   3. Udział w ceremonii wręczenia medali jest dobrowolny. Uczestnik, który nie wyraża zgody na utrwalanie i rozpowszechnianie swojego wizerunku, może odebrać medal w sposób indywidualny, kontaktując się z Organizatorem na adres wyzwanie@komornicka100.pl.
+   4. Organizator wydarzenia Komornicka 100 nie jest administratorem wizerunku utrwalonego przez Gminę Komorniki podczas Dni Komornik. Zasady przetwarzania wizerunku podczas Dni Komornik określa regulamin tej imprezy, udostępniany przez Gminę Komorniki.
+
+### §&nbsp;12 KLAUZULA INFORMACYJNA
 
    W związku z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Ogólne Rozporządzenie o Ochronie Danych), określanego dalej jako „RODO”, Uczestnik Wydarzenia niniejszym przyjmuje do wiadomości, że:
 
@@ -217,11 +228,12 @@
       3. Przenoszenia danych, w tym otrzymania od Administratora jego danych w postaci pliku komputerowego w powszechnie używanym formacie lub przesłania tego pliku innemu administratorowi;
       4. Wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych, na przetwarzanie danych osobowych Uczestnika przez Administratora, jeżeli Uczestnik uzna, że przetwarzanie danych osobowych narusza przepisy RODO.
 
-   7. Administratora nie będzie poddawał danych osobowych Uczestnika zautomatyzowanemu podejmowaniu decyzji, w tym profilowaniu, ani nie będzie ich przekazywał do państwa trzeciego.
-   8. Wszelkie wnioski, pytania i żądania związane z przetwarzaniem danych osobowych Uczestnika mogą być kierowane na adres e-mail: wyzwanie@komornicka100.pl
-   9. Szczegółowe informacje dotyczące zasad przetwarzania danych osobowych znajdują się na stronie internetowej komornicka100.pl w zakładce "Polityka prywatności".
+   7. Administrator nie przekazuje danych osobowych Uczestnika do państw trzecich (poza Europejski Obszar Gospodarczy). Uczestnik samodzielnie korzysta z platformy Strava (Strava, Inc., USA) na podstawie odrębnego regulaminu i zgody udzielonej Stravie. Dane aktywności przekazywane z platformy Strava do systemu Komornicka 100 są przetwarzane wyłącznie na terenie EOG.
+   8. System Komornicka 100 dokonuje automatycznej weryfikacji aktywności (porównanie śladu GPS z trasą referencyjną, kontrola dystansu i czasu trwania). Uczestnik ma prawo zakwestionować wynik automatycznej weryfikacji i zażądać ręcznej weryfikacji, kontaktując się z Organizatorem na adres wyzwanie@komornicka100.pl.
+   9. Wszelkie wnioski, pytania i żądania związane z przetwarzaniem danych osobowych Uczestnika mogą być kierowane na adres e-mail: wyzwanie@komornicka100.pl
+   10. Szczegółowe informacje dotyczące zasad przetwarzania danych osobowych znajdują się na stronie internetowej komornicka100.pl w zakładce "Polityka prywatności".
 
-### §&nbsp;12 REKLAMACJA
+### §&nbsp;13 REKLAMACJA
 
    1. Uczestnik lub osoba, która starała się zostać Uczestnikiem, może zgłosić reklamacje związane z Wydarzeniem na adres elektroniczny Organizatora: wyzwanie@komornicka100.pl
    2. Reklamacja powinna zawierać dane Uczestnika lub osoby, która starała się zostać Uczestnikiem oraz opisanie przyczyny reklamacji.
@@ -229,7 +241,19 @@
    4. Organizator udzieli odpowiedzi na reklamację w postaci wiadomości e-mail na adres poczty elektronicznej, z której została przesłana reklamacja.
    5. Reklamacje dotyczące rywalizacji o medal okolicznościowy, w tym kwestionujące niezaliczenie przejazdu z powodu przekroczenia terminów określonych w §&nbsp;10 ust. 3 Regulaminu, powinny zostać zgłoszone najpóźniej do godz. 12:00 w niedzielę 31 maja 2026 r., aby mogły zostać rozpatrzone przed ceremonią wręczenia medali. Reklamacje zgłoszone po tym terminie będą rozpatrywane na zasadach ogólnych, jednak ich uwzględnienie nie wpłynie na przebieg ceremonii ani na listę Uczestników, którzy otrzymali medale w jej trakcie.
 
-### §&nbsp;13 POSTANOWIENIA KOŃCOWE
+### §&nbsp;14 ZMIANA REGULAMINU
+
+   1. Organizator zastrzega sobie prawo do zmiany niniejszego Regulaminu wyłącznie z następujących powodów:
+      1. Zmiana obowiązujących przepisów prawa mająca wpływ na treść Regulaminu.
+      2. Zmiana technologii weryfikacji aktywności lub zmiana warunków korzystania z platformy Strava.
+      3. Korekta oczywistych błędów redakcyjnych lub pisarskich.
+      4. Doprecyzowanie lub uzupełnienie zasad w celu usunięcia wątpliwości interpretacyjnych.
+      5. Zmiana danych Organizatora lub partnerów wydarzenia.
+   2. O każdej zmianie Regulaminu Organizator poinformuje Uczestników z co najmniej 7-dniowym wyprzedzeniem, drogą e-mailową oraz poprzez ogłoszenie na stronie [komornicka100.pl](https://komornicka100.pl).
+   3. Uczestnik, który nie akceptuje zmian Regulaminu, może wyrejestrować się z wydarzenia przed wejściem zmian w życie, korzystając z formularza na stronie [komornicka100.pl/unregister](https://komornicka100.pl/unregister), bez żadnych konsekwencji.
+   4. Zmiany Regulaminu nie naruszają praw nabytych przez Uczestników przed dniem wejścia zmian w życie, w szczególności nie unieważniają zaliczonych przejazdów ani zdobytych uprawnień do nagród.
+
+### §&nbsp;15 POSTANOWIENIA KOŃCOWE
 
    1. Zawodnik wypełniając elektroniczny formularz zgłoszeniowy potwierdza, iż bierze udział na własną odpowiedzialność i ponosi związane z tym ryzyko, przyjmując do wiadomości, że udział w wydarzeniu wiąże się z wysiłkiem fizycznym i pociąga za sobą naturalne ryzyko zagrożenie wypadkami, możliwość odniesienia obrażeń ciała i urazów fizycznych (w tym śmierci), a także szkód i strat o charakterze majątkowym. Wypełnienie formularza rejestracyjnego oznacza, że zawodnik ocenił charakter, zakres i stopień ryzyka wiążącego się z uczestnictwem i dobrowolnie zdecydował się podjąć to ryzyko, biorąc udział na własną odpowiedzialność.
    2. Organizator zaleca przed rozpoczęciem przygotowań do wydarzenia oraz w ich trakcie dokonanie stosownych badań medycznych lub konsultacji lekarskiej w zależności od wieku oraz kondycji fizycznej Zawodnika.
@@ -237,10 +261,9 @@
    4. Organizator zastrzega sobie prawo do wprowadzenia dodatkowych klasyfikacji i nagród.
    5. Organizator zastrzega możliwość odwołania lub zmiany wydarzenia w przypadku zaistnienia zdarzeń mających charakter siły wyższej, a mogących mieć wpływ na przebieg wydarzenia. Siłą wyższą w rozumieniu niniejszego Regulaminu są wszelkie nieprzewidywalne sytuacje lub zdarzenia, o charakterze wyjątkowym, pozostające poza kontrolą Organizatora, uniemożliwiające wypełnienie któregokolwiek z zobowiązań przewidzianych niniejszym Regulaminem, niewynikające z błędu lub zaniedbania Organizatora oraz pozostające nie do pokonania, pomimo dołożenia wszelkiej należytej staranności, w szczególności: zdarzenia o charakterze katastrof przyrodniczych typu powódź, huragan, wichury o nadzwyczajnej sile, trąby powietrzne, trzęsienia ziemi, wyjątkowo intensywne i długotrwałe ulewy albo nadzwyczajnych i zewnętrznych wydarzeń, którym nie można było zapobiec np. wojna, restrykcje stanu wojennego, powstanie, rewolucja, zamieszki, atak terrorystyczny, stany zagrożenia epidemicznego, epidemie oraz stany epidemii, jak również nowe akty prawne lub decyzje władz administracyjnych uniemożliwiające Organizatorowi wykonanie jego zobowiązań. Ani Organizator ani zawodnicy nie odpowiadają za niewykonanie lub nienależyte wykonanie postanowień niniejszego Regulaminu spowodowane siłą wyższą.
    6. Organizator nie ponosi odpowiedzialności za wypadki i szkody spowodowane przez Uczestników powstałe w czasie trwania Wydarzenia.
-   7. Wiążąca i ostateczna interpretacja niniejszego regulaminu przysługuje wyłącznie Organizatorowi.
-   8. W sprawach nieobjętych regulaminem rozstrzyga Organizator.
-   9. Niniejszy regulamin wchodzi w życie z dniem 15 maja 2025 r. i obowiązuje do czasu zakończenia wydarzenia.
-   10. Regulamin jest dostępny na stronie internetowej [komornicka100.pl](https://komornicka100.pl).
+   7. W sprawach nieuregulowanych niniejszym Regulaminem zastosowanie mają przepisy prawa polskiego, w szczególności Kodeksu cywilnego.
+   8. Niniejszy regulamin wchodzi w życie z dniem 15 maja 2025 r. i obowiązuje do czasu zakończenia wydarzenia. Zasady zmiany Regulaminu określa §&nbsp;14.
+   9. Regulamin jest dostępny na stronie internetowej [komornicka100.pl](https://komornicka100.pl).
 
 ---
 
