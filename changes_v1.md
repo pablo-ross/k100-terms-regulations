@@ -1,4 +1,4 @@
-## Propozycja zmian: twardy deadline tylko dla medalu, reszta klasyfikacji bez zmian
+## Propozycja zmian v1: twardy deadline tylko dla medalu, reszta klasyfikacji bez zmian
 
 Podsumowanie wprowadzonych zmian:
 

@@ -27,9 +27,8 @@
 ### §&nbsp;3 TERMIN I MIEJSCE
 
    1. Wszystkie godziny podane w niniejszym Regulaminie odnoszą się do czasu lokalnego strefy Europe/Warsaw (CEST w okresie letnim, CET w okresie zimowym), chyba że wyraźnie zaznaczono inaczej.
-   2. Wydarzenie rozpoczyna się 1 czerwca 2025 r. i trwa do 31 maja 2026 r.
-   3. Rywalizacja o medal okolicznościowy, o którym mowa w §&nbsp;9 ust. 3, kończy się wcześniej, tj. w sobotę 30 maja 2026 r. o godz. 21:59. Szczegółowe zasady tej rywalizacji określa §&nbsp;9 ust. 3 oraz §&nbsp;10 ust. 3 Regulaminu.
-   4. Miejsce startu i mety jest określone odrębnie dla każdej z tras, jednak uczestnicy mogą rozpocząć i zakończyć jazdę w dowolnym miejscu na trasie pod warunkiem przejechania pełnej trasy.
+   2. Wydarzenie rozpoczyna się 1 czerwca 2025 r. i trwa do soboty 30 maja 2026 r. do godz. 21:59. Szczegółowe zasady zamknięcia klasyfikacji określa §&nbsp;10 ust. 3 Regulaminu.
+   3. Miejsce startu i mety jest określone odrębnie dla każdej z tras, jednak uczestnicy mogą rozpocząć i zakończyć jazdę w dowolnym miejscu na trasie pod warunkiem przejechania pełnej trasy.
 
 ### §&nbsp;4 TRASY
 
@@ -76,8 +75,7 @@
       4. System sprawdza, czy przejazd odpowiada jednej z oficjalnych tras (dopuszczalne są odchylenia 35m od zdefiniowanego śladu).
       5. Przejazd musi mieć długość co najmniej 98 kilometrów (minimalny dystans uwzględniający możliwe niedokładności pomiaru GPS dla tras o długości około 100 km).
       6. Przejazd nie może trwać dłużej niż 24 godziny.
-      7. System weryfikuje wyłącznie aktywności, które zostały zarejestrowane w Stravie nie później niż 72 godziny od momentu ich zakończenia. Aktywności starsze niż 3 dni nie będą dodawane ani analizowane przez system.
-      8. Szczególne zasady dotyczące zaliczania przejazdów do rywalizacji o medal okolicznościowy określa §&nbsp;10 ust. 3 Regulaminu.
+      7. System weryfikuje wyłącznie aktywności, które zostały zarejestrowane w Stravie nie później niż 72 godziny od momentu ich zakończenia. Aktywności starsze niż 3 dni nie będą dodawane ani analizowane przez system. Niezależnie od powyższego, po zakończeniu wydarzenia (§&nbsp;3 ust. 2) obowiązują twarde terminy zamknięcia klasyfikacji określone w §&nbsp;10 ust. 3 Regulaminu.
    3. Zaliczenie trasy:
       1. Przejazdy spełniające kryteria zawarte w §&nbsp;7 ust. 2 Regulaminu są zatwierdzane automatycznie.
       2. Uczestnik otrzyma e-mail z potwierdzeniem zatwierdzenia przejazdu, niezwłocznie po dokonaniu pozytywnej weryfikacji.
@@ -93,7 +91,7 @@
       3. Nie wstrzymuj rejestracji GPS podczas jazdy.
       4. Przejedź całą trasę \- większe skróty albo duże zmiany trasy mogą nie pozwolić na poprawną weryfikację.
       5. Nie edytuj danych GPS aktywności po przesłaniu do Stravy.
-      6. Pamiętaj o terminowym przesłaniu aktywności do Stravy - system akceptuje tylko aktywności zarejestrowane w ciągu 72 godzin od ich zakończenia. W odniesieniu do rywalizacji o medal okolicznościowy obowiązuje dodatkowy, twardy termin opisany w §&nbsp;10 ust. 3 Regulaminu.
+      6. Pamiętaj o terminowym przesłaniu aktywności do Stravy - system akceptuje tylko aktywności zarejestrowane w ciągu 72 godzin od ich zakończenia. Pod koniec sezonu obowiązuje twardy termin zamknięcia klasyfikacji opisany w §&nbsp;10 ust. 3 Regulaminu.
       7. Upewnij się, że Twoja aktywność jest ustawiona jako publiczna w Stravie.
    7. W przypadku problemów z weryfikacją, Uczestnik może skontaktować się z Organizatorem za pomocą wiadomości e-mail, podając link do swojej aktywności w Stravie.
    8. Uczestnik może zaliczyć więcej niż jeden przejazd wyznaczoną trasą w ciągu jednego dnia, pod warunkiem że każdy przejazd wyznaczoną trasą będzie oddzielną aktywnością w Stravie.
@@ -122,20 +120,20 @@
    3. Okres zimowy (1 grudnia 2025 - 28 lutego 2026) - dla pierwszych 50 Uczestników, którzy ukończą i zarejestrują przejazd trasy:
       1. Koszulki sportowe wysokiej jakości z logo "Komornicka 100" (fundator: Gminny Ośrodek Sportu i Rekreacji w Komornikach oraz Gmina Komorniki).
    
-   4. Okres wiosenny (1 marca 2026 - 31 maja 2026) - dla pierwszych 50 Uczestników, którzy ukończą i zarejestrują przejazd trasy:
+   4. Okres wiosenny (1 marca 2026 - 30 maja 2026 godz. 21:59) - dla pierwszych 50 Uczestników, którzy ukończą i zarejestrują przejazd trasy:
       1. 10 pakietów startowych na "IV Bieg w Dobrym Kierunku" (fundator: Gminny Ośrodek Sportu i Rekreacji w Komornikach).
       2. 30 voucherów o wartości 30 zł brutto do wykorzystania w sklepie Bike Poznań (fundator: Wójt Gminy Komorniki).
       3. 10 zestawów gadżetów promocyjnych (fundator: Gminny Ośrodek Sportu i Rekreacji w Komornikach).
 
 3. Nagroda roczna - medal okolicznościowy:
    1. Każdy Uczestnik, który ukończy i zarejestruje trasę co najmniej 12 razy w okresie rywalizacji medalowej, przynajmniej raz w każdym miesiącu, otrzyma medal okolicznościowy.
-   2. Okres rywalizacji medalowej rozpoczyna się 1 czerwca 2025 r. o godz. 00:00 i kończy się 30 maja 2026 r. o godz. 21:59. Szczegółowe zasady zaliczania przejazdów do rywalizacji medalowej, w tym twarde terminy zakończenia jazdy oraz przesłania aktywności do Stravy, określa §&nbsp;10 ust. 3 Regulaminu.
-   3. Wymóg ukończenia przejazdu „przynajmniej raz w każdym miesiącu" oznacza zaliczenie co najmniej jednego przejazdu w każdym z 12 pełnych miesięcy kalendarzowych: czerwiec 2025, lipiec 2025, sierpień 2025, wrzesień 2025, październik 2025, listopad 2025, grudzień 2025, styczeń 2026, luty 2026, marzec 2026, kwiecień 2026 oraz w okresie od 1 do 30 maja 2026 r. godz. 21:59.
+   2. Okres rywalizacji medalowej pokrywa się z okresem trwania wydarzenia (§&nbsp;3 ust. 2). Szczegółowe zasady zaliczania przejazdów, w tym twarde terminy zakończenia jazdy oraz przesłania aktywności do Stravy, określa §&nbsp;10 ust. 3 Regulaminu.
+   3. Wymóg ukończenia przejazdu „przynajmniej raz w każdym miesiącu" oznacza zaliczenie co najmniej jednego przejazdu w każdym z 12 pełnych miesięcy kalendarzowych: czerwiec 2025, lipiec 2025, sierpień 2025, wrzesień 2025, październik 2025, listopad 2025, grudzień 2025, styczeń 2026, luty 2026, marzec 2026, kwiecień 2026 oraz w okresie od 1 do 30 maja 2026 r. do godz. 21:59.
    4. Medale zostaną wręczone w niedzielę 31 maja 2026 r. podczas Dni Komornik 2026 (fundator: Gminny Ośrodek Sportu i Rekreacji w Komornikach).
    5. Wśród Uczestników obecnych podczas ceremonii wręczenia medali zostanie rozlosowanych 5 pakietów na serwis roweru o wartości 190 zł brutto każdy (fundator: sklep Bike Poznań).
 
 4. Nagrody za największą liczbę przejazdów w okresie trwania wydarzenia:
-   1. Uczestnik, który zarejestruje największą liczbę przejazdów w okresie trwania wydarzenia (1 czerwca 2025 - 31 maja 2026) otrzyma voucher o wartości 300 zł brutto do wykorzystania w sklepie Bike Poznań (fundator: Wójt Gminy Komorniki).
+   1. Uczestnik, który zarejestruje największą liczbę przejazdów w okresie trwania wydarzenia (1 czerwca 2025 - 30 maja 2026 godz. 21:59) otrzyma voucher o wartości 300 zł brutto do wykorzystania w sklepie Bike Poznań (fundator: Wójt Gminy Komorniki).
    2. Uczestnik z drugą największą liczbą przejazdów otrzyma voucher o wartości 200 zł brutto do wykorzystania w sklepie Bike Poznań (fundator: Wójt Gminy Komorniki).
    3. Uczestnik z trzecią największą liczbą przejazdów otrzyma voucher o wartości 100 zł brutto do wykorzystania w sklepie Bike Poznań (fundator: Wójt Gminy Komorniki).
    4. W przypadku takiej samej liczby przejazdów, nagroda przypadnie Uczestnikowi, który rozpoczął przejazd jako pierwszy.
@@ -172,17 +170,16 @@
 
    1. Na podstawie zaliczonych aktywności tworzona jest lista Uczestników posortowanych od największej do najmniejszej liczby zaliczonych przejazdów.
    2. Aktualne wyniki są dostępne na stronie [komornicka100.pl](https://komornicka100.pl) w zakładce "Wyniki".
-   3. Szczególne zasady rywalizacji o medal okolicznościowy:
-      1. W celu zapewnienia, że ceremonia wręczenia medali w dniu 31 maja 2026 r. odbędzie się w oparciu o ostateczne i kompletne wyniki, dla rywalizacji o medal okolicznościowy obowiązują twarde, nieprzekraczalne terminy określone poniżej.
-      2. Do rywalizacji o medal zaliczane są wyłącznie przejazdy, które łącznie spełniają następujące warunki:
+   3. Zasady zamknięcia klasyfikacji:
+      1. Wydarzenie kończy się w sobotę 30 maja 2026 r. o godz. 21:59 (§&nbsp;3 ust. 2). Po tym terminie żadne nowe aktywności nie są zaliczane do jakiejkolwiek klasyfikacji wydarzenia.
+      2. Do klasyfikacji końcowych zaliczane są wyłącznie przejazdy, które łącznie spełniają następujące warunki:
          1. Sama jazda (aktywność rowerowa) zakończyła się najpóźniej w sobotę 30 maja 2026 r. o godz. 21:59.
          2. Aktywność została przesłana do serwisu Strava i jest widoczna dla systemu Komornicka 100 najpóźniej w sobotę 30 maja 2026 r. o godz. 21:59.
          3. Aktywność spełnia wszystkie pozostałe kryteria techniczne weryfikacji określone w §&nbsp;7 ust. 2 Regulaminu (m.in. typ "Ride", status publiczny, zgodność z trasą, dystans co najmniej 98 km, czas trwania nie dłuższy niż 24 godziny).
-      3. W odniesieniu do rywalizacji o medal nie stosuje się 72-godzinnego okna na przesłanie aktywności do Stravy, o którym mowa w §&nbsp;7 ust. 2 pkt 7. Aktywności przesłane do Stravy po godz. 21:59 dnia 30 maja 2026 r. nie będą zaliczane do rywalizacji o medal, nawet jeśli sama jazda zakończyła się przed tym terminem.
-      4. Aktywności, które nie zostały zaliczone do rywalizacji o medal wyłącznie z powodu przekroczenia terminu określonego w pkt 2 ppkt 2 powyżej, ale spełniają pozostałe warunki regulaminowe (w tym standardowe 72-godzinne okno z §&nbsp;7 ust. 2 pkt 7), są normalnie zaliczane do pozostałych klasyfikacji wydarzenia, w szczególności do rocznej klasyfikacji za największą liczbę przejazdów (§&nbsp;9 ust. 4) oraz do klasyfikacji miesięcznej za maj 2026 r. (§&nbsp;9 ust. 5), jeżeli taka klasyfikacja zostanie ogłoszona.
-      5. Ostateczna lista Uczestników uprawnionych do otrzymania medalu zostanie zamknięta i opublikowana na stronie [komornicka100.pl](https://komornicka100.pl) w niedzielę 31 maja 2026 r., przed ceremonią wręczenia medali.
-      6. Organizator rekomenduje Uczestnikom rywalizującym o medal, aby ostatnie przejazdy w sezonie planowali z odpowiednim zapasem czasu na zsynchronizowanie urządzenia GPS z aplikacją Strava.
-   4. Warunkiem otrzymania medalu, o którym mowa w §&nbsp;9 ust. 3, jest przejechanie trasy co najmniej 12 razy w okresie rywalizacji medalowej, przynajmniej raz w każdym miesiącu, na zasadach określonych w niniejszym paragrafie oraz w §&nbsp;9 ust. 3.
+      3. Po zakończeniu wydarzenia nie stosuje się 72-godzinnego okna na przesłanie aktywności do Stravy, o którym mowa w §&nbsp;7 ust. 2 pkt 7. Aktywności przesłane do Stravy po godz. 21:59 dnia 30 maja 2026 r. nie będą zaliczane do żadnej klasyfikacji, nawet jeśli sama jazda zakończyła się przed tym terminem.
+      4. Ostateczne wyniki wszystkich klasyfikacji, w tym lista Uczestników uprawnionych do otrzymania medalu, zostaną zamknięte i opublikowane na stronie [komornicka100.pl](https://komornicka100.pl) w niedzielę 31 maja 2026 r., przed ceremonią wręczenia medali.
+      5. Organizator rekomenduje Uczestnikom, aby ostatnie przejazdy w sezonie planowali z odpowiednim zapasem czasu na zsynchronizowanie urządzenia GPS z aplikacją Strava.
+   4. Warunkiem otrzymania medalu, o którym mowa w §&nbsp;9 ust. 3, jest przejechanie trasy co najmniej 12 razy w okresie trwania wydarzenia, przynajmniej raz w każdym miesiącu, na zasadach określonych w niniejszym paragrafie oraz w §&nbsp;9 ust. 3.
    5. Warunkiem otrzymania nagród sezonowych, o których szczegółowa mowa w §&nbsp;9 ust. 2 Regulaminu, jest przejechanie trasy minimum raz w danym okresie sezonowym.
    6. Organizator zastrzega sobie prawo do wprowadzenia dodatkowych klasyfikacji.
 
@@ -239,7 +236,7 @@
    2. Reklamacja powinna zawierać dane Uczestnika lub osoby, która starała się zostać Uczestnikiem oraz opisanie przyczyny reklamacji.
    3. Organizator rozpatrzy reklamację niezwłocznie po jej otrzymaniu, jednakże nie później niż w terminie 30 dni od dnia jej otrzymania.
    4. Organizator udzieli odpowiedzi na reklamację w postaci wiadomości e-mail na adres poczty elektronicznej, z której została przesłana reklamacja.
-   5. Reklamacje dotyczące rywalizacji o medal okolicznościowy, w tym kwestionujące niezaliczenie przejazdu z powodu przekroczenia terminów określonych w §&nbsp;10 ust. 3 Regulaminu, powinny zostać zgłoszone najpóźniej do godz. 12:00 w niedzielę 31 maja 2026 r., aby mogły zostać rozpatrzone przed ceremonią wręczenia medali. Reklamacje zgłoszone po tym terminie będą rozpatrywane na zasadach ogólnych, jednak ich uwzględnienie nie wpłynie na przebieg ceremonii ani na listę Uczestników, którzy otrzymali medale w jej trakcie.
+   5. Reklamacje dotyczące klasyfikacji końcowych, w tym kwestionujące niezaliczenie przejazdu z powodu przekroczenia terminów określonych w §&nbsp;10 ust. 3 Regulaminu, powinny zostać zgłoszone najpóźniej do godz. 12:00 w niedzielę 31 maja 2026 r., aby mogły zostać rozpatrzone przed ceremonią wręczenia medali. Reklamacje zgłoszone po tym terminie będą rozpatrywane na zasadach ogólnych, jednak ich uwzględnienie nie wpłynie na przebieg ceremonii ani na listę Uczestników, którzy otrzymali medale w jej trakcie.
 
 ### §&nbsp;14 ZMIANA REGULAMINU
 
@@ -267,4 +264,4 @@
 
 ---
 
-*Ostatnia zmiana: 9 kwietnia 2026 r.*
+*Ostatnia zmiana: 10 kwietnia 2026 r.*
