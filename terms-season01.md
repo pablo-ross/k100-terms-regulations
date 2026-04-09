@@ -125,7 +125,7 @@
 3. Nagroda roczna - medal okolicznościowy:
    1. Każdy Uczestnik, który ukończy i zarejestruje trasę co najmniej 12 razy w okresie rywalizacji medalowej, przynajmniej raz w każdym miesiącu, otrzyma medal okolicznościowy.
    2. Okres rywalizacji medalowej rozpoczyna się 1 czerwca 2025 r. o godz. 00:00 i kończy się 30 maja 2026 r. o godz. 21:59. Szczegółowe zasady zaliczania przejazdów do rywalizacji medalowej, w tym twarde terminy zakończenia jazdy oraz przesłania aktywności do Stravy, określa §&nbsp;10 ust. 3 Regulaminu.
-   3. Wymóg ukończenia przejazdu „przynajmniej raz w każdym miesiącu" oznacza zaliczenie co najmniej jednego przejazdu w każdym z 12 pełnych miesięcy kalendarzowych: czerwiec 2025, lipiec 2025, sierpień 2025, wrzesień 2025, październik 2025, listopad 2025, grudzień 2025, styczeń 2026, luty 2026, marzec 2026, kwiecień 2026 oraz w okresie od 1 do 29 maja 2026 r. (włącznie).
+   3. Wymóg ukończenia przejazdu „przynajmniej raz w każdym miesiącu" oznacza zaliczenie co najmniej jednego przejazdu w każdym z 12 pełnych miesięcy kalendarzowych: czerwiec 2025, lipiec 2025, sierpień 2025, wrzesień 2025, październik 2025, listopad 2025, grudzień 2025, styczeń 2026, luty 2026, marzec 2026, kwiecień 2026 oraz w okresie od 1 do 30 maja 2026 r. godz. 21:59 czasu lokalnego (Europe/Warsaw).
    4. Medale zostaną wręczone w niedzielę 31 maja 2026 r. podczas Dni Komornik 2026 (fundator: Gminny Ośrodek Sportu i Rekreacji w Komornikach).
    5. Wśród Uczestników obecnych podczas ceremonii wręczenia medali zostanie rozlosowanych 5 pakietów na serwis roweru o wartości 190 zł brutto każdy (fundator: sklep Bike Poznań).
 
